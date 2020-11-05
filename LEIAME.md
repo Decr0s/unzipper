@@ -19,7 +19,7 @@ O Unzipper extrai arquivos .zip e .rar ou .gz/tar.gz em webservers. Ele detecta 
 - (Opcional) selecione um diretório para a extração, default é o diretório atual
 - Clique em "Unzip Archive"
 
-### Criando arquivo compactado
+### Compactando arquivo
 
 - (Opcional) Configure o path do zip, default é a pasta atual
 - Clique em "Zip Archive"
