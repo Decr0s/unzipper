@@ -11,7 +11,7 @@ O Unzipper extrai arquivos .zip e .rar ou .gz/tar.gz em webservers. Ele detecta 
 ## Usando
 
 - Download unzipper.php e envie para o mesmo diretório do arquivo .zip.
-- Abra o unzip no navegador. Exemplo: https://ribafs.me/unzipper.php
+- Abra o unzipper.php no navegador. Exemplo: https://ribafs.me/unzipper.php
 
 ### Descompactando
 
