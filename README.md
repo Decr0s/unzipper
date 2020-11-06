@@ -1,4 +1,4 @@
-# O Unzipper
+# The Unzipper
 
 O Unzipper extrai arquivos .zip e .rar ou .gz/tar.gz em webservers. Ele detecta arquivos .zip/.rar/.tar.gz/.gz e deixa você escolher um para extrair. Também suporta a criação de arquivos.
 
