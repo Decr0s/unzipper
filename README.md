@@ -2,6 +2,8 @@
 
 O Unzipper extrai arquivos .zip e .rar ou .gz/tar.gz em webservers. Ele detecta arquivos .zip/.rar/.tar.gz/.gz e deixa você escolher um para extrair. Também suporta a criação de arquivos.
 
+Official Repository in english - https://github.com/ndeet/unzipper
+
 É útil se você não tiver acesso ao terminal. Por exemplo. se você deseja enviar muitos arquivos (um framework/cms php ou coleção de imagens) compactado - porque é muito mais rápido do que enviar cada arquivo sozinho.
 
 ## Requisitos
@@ -27,7 +29,7 @@ O Unzipper extrai arquivos .zip e .rar ou .gz/tar.gz em webservers. Ele detecta 
 
 ## Versão
 
-Beta version state, use at you own risk.
+Versão beta, use por seu próprio risco.
 
 ## License
 
@@ -38,7 +40,7 @@ Released under GNU/GPL v3
 
 ## Updates
 
-Get latest code at https://github.com/ndeet/unzipper
+Receba a versão mais recente em https://github.com/ndeet/unzipper
 
 ## Credits   
 [See contributors on Github](https://github.com/ndeet/unzipper/graphs/contributors)  
